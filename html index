@@ -93,24 +93,22 @@
           </li>
           <li><strong>2009</strong> - dies at the age of 95.</li>
         </ul>
-        
-          <p>
-          
-            "Borlaug's life and achievement are testimony to the far-reaching
-            contribution that one man's towering intellect, persistence and
-            scientific vision can make to human peace and progress."
-          </p>
-          <cite>-- Indian Prime Minister Manmohan Singh</cite>
-        </blockquote>
-        <h3>
-          If you have time, you should read more about this incredible human
-          being on his
-          <a
-            id="tribute-link"
-            href="https://en.wikipedia.org/wiki/Norman_Borlaug"
-            target="_blank"
-            >Wikipedia entry</a
-          >.
+        <img id="image">
+        </a>
+        </img>
+<styles>
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+h1 {
+  position: center;
+}
+tribute-info {
+  justify-content: center;
+}
+</styles>  
         </h3>
       </section>
     </main>
