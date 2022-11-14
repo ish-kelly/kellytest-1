@@ -96,19 +96,6 @@
         <img id="image">
         </a>
         </img>
-<styles>
-img {
-  max-width: 100%;
-  display: block;
-  height: auto;
-}
-h1 {
-  position: center;
-}
-tribute-info {
-  justify-content: center;
-}
-</styles>  
         </h3>
       </section>
     </main>
