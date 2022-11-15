@@ -2,6 +2,20 @@
 <html>
   <head>
     <link rel="stylesheet" href="styles.css" />
+
+    <style>
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+h1 {
+  position: center;
+}
+tribute-info {
+  justify-content: center;
+}
+</style>  
   </head>
   <body>
     <main id="main">
@@ -96,9 +110,9 @@
         <img id="image">
         </a>
         </img>
+
         </h3>
       </section>
     </main>
   </body>
 </html>
-       
